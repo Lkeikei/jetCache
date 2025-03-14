@@ -6,8 +6,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping("/jetCache")
-public class JetCacheController {
+@RequestMapping("/user")
+public class UserController {
 
 
     @GetMapping("/testGet")
