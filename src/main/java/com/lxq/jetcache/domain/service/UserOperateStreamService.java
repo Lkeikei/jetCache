@@ -2,7 +2,7 @@ package com.lxq.jetcache.domain.service;
 
 import com.alibaba.fastjson2.JSON;
 import com.baomidou.mybatisplus.extension.service.impl.ServiceImpl;
-import com.lxq.jetcache.domain.constant.UserOperateTypeEnum;
+import com.lxq.jetcache.api.constant.UserOperateTypeEnum;
 import com.lxq.jetcache.domain.entity.User;
 import com.lxq.jetcache.domain.entity.UserOperateStream;
 import com.lxq.jetcache.infrastructure.mapper.UserOperateStreamMapper;

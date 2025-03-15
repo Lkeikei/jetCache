@@ -1,4 +1,4 @@
-package com.lxq.jetcache.domain.constant;
+package com.lxq.jetcache.api.constant;
 
 public enum UserStateEnum {
     /**

@@ -1,7 +1,7 @@
 package com.lxq.jetcache.api.data;
 
-import com.lxq.jetcache.domain.constant.UserRole;
-import com.lxq.jetcache.domain.constant.UserStateEnum;
+import com.lxq.jetcache.api.constant.UserRole;
+import com.lxq.jetcache.api.constant.UserStateEnum;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
