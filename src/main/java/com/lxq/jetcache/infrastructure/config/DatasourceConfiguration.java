@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 @Configuration
-@MapperScan(basePackages = "com.lxq.jetcache.*.infrastructure.mapper")
+@MapperScan(basePackages = "com.lxq.jetcache.infrastructure.mapper")
 public class DatasourceConfiguration {
 
     @Bean
